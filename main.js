@@ -1,4 +1,3 @@
-<script>
 document.addEventListener("DOMContentLoaded", function() {
   // LENIS SMOOTH SCROLL
   let lenis;
@@ -192,4 +191,3 @@ document.addEventListener("DOMContentLoaded", function() {
   // Update meta viewport
   document.querySelector('meta[name="viewport"]').setAttribute('content', 'width=device-width, initial-scale=1, maximum-scale=1');
 });
-</script>
